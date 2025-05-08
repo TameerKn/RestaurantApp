@@ -16,11 +16,10 @@ Registered Users:
 
 Admins:
 - Manager Dashboard page:
-   -
-   Manage All Reservations page
-   Manage All Menu Dishes page
-- Make/Cancel/Edit/View All Reservations.
-- Add/Delete/Edit/View All Menu Dishes.
+   - Manage All Reservations page
+   - Manage All Menu Dishes page
+- Make/Cancel/Edit/View All Reservations (with filtering).
+- Add/Delete/Edit/View All Menu Dishes (with filtering).
 
 Basically A Control Panel to manage you customers Reservations and your Restaurant's menu!
 
