@@ -26,7 +26,7 @@ namespace RestaurantServer
                 options.Filters.Add<LogActionFilter>();
             });
 
-            string connectionString = "Server=LAPTOP-BKEMJSI7; Database=RestaurantDbTest; Trusted_Connection=True; TrustServerCertificate=True;";
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
             builder.Services.AddDbContext<RestaurantDbContext>(options => options.UseSqlServer(connectionString));
 
