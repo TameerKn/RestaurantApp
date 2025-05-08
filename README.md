@@ -29,5 +29,5 @@ Basically A Control Panel to manage you customers Reservations and your Restaura
 - SQL Server Management Studio
 ## Usage Instructions
 - Launching the Server: Open a new solution with visual studio 2022 and select the RestaurantServer.sln file in RestaurantServer Folder.
-- Launching the client: Open RestaurantClient with visual code and move your directory to restaurantclient with cd- restaurant client, then run with npm -start.
+- Launching the Client: Open RestaurantClient with visual code and move your directory to restaurantclient with cd- restaurantclient, then run with npm -start.
 - Use SQL Server Management Studio and connect to the database depending on the connectionstring.
